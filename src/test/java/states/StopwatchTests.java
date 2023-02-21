@@ -6,9 +6,6 @@ import org.junit.jupiter.api.Assertions;
 import states.stopwatch.AbstractStopwatch;
 import states.stopwatch.ResetStopwatch;
 import states.timer.AbstractTimer;
-import org.junit.*;
-
-import static org.junit.Assert.*;
 
 public class StopwatchTests {
 
